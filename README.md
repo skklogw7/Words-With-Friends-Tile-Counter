@@ -1,5 +1,5 @@
 # Words-With-Friends-Tile-Counter
-This simple program takes as input words played in a game of Words With Friends and then prints a bank of all the remaining tiles.
+This program takes as input a word played in a game of Words With Friends and then prints a bank of the remaining tiles.
 
 Note: I made this after my introductory computer science course.  
 My next two CS classes are 1) object oriented programming and 2) abstraction and data structures.  
